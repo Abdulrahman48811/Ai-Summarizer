@@ -24,7 +24,7 @@ const Hero = () => {
 
       <h2 className="desc">
         Sumz, an open-source article summarizer that converts long articles
-        into simple and succinct summaries, might help you simplify your
+        into simple and succinct summaries, might also help you simplify your
         reading.
       </h2>
     </header>
